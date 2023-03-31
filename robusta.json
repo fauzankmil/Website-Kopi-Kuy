@@ -1,0 +1,16 @@
+[
+    {
+        "foto": "images/produk/product_kopi_susu.jpg",
+        "nama": "Kopi Susu",
+        "size": "100 Gram",
+        "harga": "500.000",
+        "link": "https://tokopedia.com/kopiiawodia"
+    },
+    {
+        "foto": "images/produk/product_latte.jpg",
+        "nama": "Latte",
+        "size": "150 Gram",
+        "harga": "150.000",
+        "link": "https://tokopedia.com/kopiiawodia"
+    }
+]

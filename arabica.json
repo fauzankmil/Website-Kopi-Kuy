@@ -1,0 +1,23 @@
+[
+    {
+        "foto": "images/produk/product_capuchino.jpg",
+        "nama": "Cappucino",
+        "size": "500 Gram",
+        "harga": "200.000",
+        "link": "https://tokopedia.com/kopiiawodia"
+    },
+    {
+        "foto": "images/produk/product_espresso.jpg",
+        "nama": "Espresso Ennak",
+        "size": "100 Gram",
+        "harga": "100.000",
+        "link": "https://tokopedia.com/kopiiawodia"
+    },
+    {
+        "foto": "images/produk/product_latte.jpg",
+        "nama": "Latte",
+        "size": "150 Gram",
+        "harga": "150.000",
+        "link": "https://tokopedia.com/kopiiawodia"
+    }
+]
